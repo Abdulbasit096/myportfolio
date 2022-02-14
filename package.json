@@ -6,6 +6,10 @@
     "start": "next start"
   },
   "dependencies": {
+    "@emailjs/browser": "^3.4.0",
+    "@headlessui/react": "^1.4.3",
+    "@heroicons/react": "^1.0.5",
+    "framer-motion": "^6.2.6",
     "next": "latest",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
